@@ -1,3 +1,9 @@
+"""
+TCP Server Program
+
+This script creates a TCP server socket, listens for incoming connections,
+accepts a connection from a client, and echoes received messages back to the client.
+"""
 # Echo server program
 import socket
 
